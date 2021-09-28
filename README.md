@@ -14,4 +14,5 @@ cd barcode-scanner
 python main.py -i <yourimage>
 ```
 <p align="center">
+<img height=400 width=700 src="/images/barcode.gif" />
 </p>
